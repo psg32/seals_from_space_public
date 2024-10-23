@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "seals_from_space_public"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

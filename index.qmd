@@ -9,3 +9,5 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+
+Publish a Quarto project using GitHub Pages+GitHub Actions in 6 minutes (no need to render locally!) https://www.youtube.com/watch?v=arzBRW5XIkg&ab_channel=MelissaVanBussel%28ggnot2%29
